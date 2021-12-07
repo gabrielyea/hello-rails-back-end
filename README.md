@@ -2,6 +2,9 @@
 # Hello rails back end! 
 Simple app that generates random messages on API endpoint
 
+## Front end
+https://github.com/gabrielyea/hello-rails-front-end/tree/front-end
+
 ##  Built With :hammer:
 
 - Ruby on Rails
